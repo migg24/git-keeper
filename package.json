@@ -7,7 +7,7 @@
     },
     "preferGlobal": true,
     "bin": {
-        "git-keeper": "index.js"
+        "git-keeper": "bin/cli.js"
     },
     "repository": {
         "type": "git",
@@ -29,5 +29,8 @@
         "commander": "^2.9.0",
         "inquirer": "^1.0.2",
         "nodegit": "^0.13.0"
+    },
+    "devDependencies": {
+        "eslint": "^2.9.0"
     }
 }
