@@ -1,7 +1,7 @@
 {
     "name": "git-keeper",
     "version": "0.1.0",
-    "description": "Check for merged or outdated local or remote git branches.",
+    "description": "Check for merged or outdated git branches.",
     "scripts": {
         "test": "tape"
     },
