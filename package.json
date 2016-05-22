@@ -12,9 +12,11 @@
   },
   "keywords": [
     "git",
+    "git-keeper",
     "cleanup",
     "keeper",
-    "clean"
+    "clean",
+    "manage"
   ],
   "author": "Michael Dreher",
   "license": "MIT",
