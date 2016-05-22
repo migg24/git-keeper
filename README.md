@@ -1,6 +1,8 @@
 # git-keeper [![npm-check](http://img.shields.io/npm/dm/git-keeper.svg)](https://www.npmjs.org/package/git-keeper)
 > Check for merged or outdated local or remote git branches
 
+Helps you to keep your local and remote branches clean of merged and outdated stuff.
+
 ## Install
 
 ```bash
@@ -46,8 +48,13 @@ $ npm i -g git-keeper
 * [npm-check](https://github.com/dylang/npm-check) - Idea translated to git repositories, also kindly borrowed some of its code.
 
 ## License
+MIT License (MIT)
 Copyright (c) 2016 Michael Dreher, contributors.
 
-Released under the [MIT license](https://tldrlegal.com/license/mit-license).
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Screenshots are [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) (Attribution-ShareAlike).
