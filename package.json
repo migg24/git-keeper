@@ -1,6 +1,6 @@
 {
   "name": "git-keeper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check for merged or outdated git branches.",
   "preferGlobal": true,
   "bin": {
