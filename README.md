@@ -1,4 +1,4 @@
-# git-keeper [![npm-check](http://img.shields.io/npm/dm/npm-check.svg)](https://www.npmjs.org/package/git-keeper)
+# git-keeper [![npm-check](http://img.shields.io/npm/dm/git-keeper.svg)](https://www.npmjs.org/package/git-keeper)
 > Check for merged or outdated local or remote git branches
 
 ## Install
