@@ -3,6 +3,8 @@
 
 Helps you to keep your local and remote branches clean of merged and outdated stuff.
 
+![git-keeper -ir](img/readme1.png)
+
 ## Install
 
 ```bash
