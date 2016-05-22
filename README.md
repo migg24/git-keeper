@@ -16,8 +16,8 @@ $ npm i -g git-keeper
 
 * Check if on master and stop if not (unless you `--force`)
 * If `--remote`
-..* Fetch remote 
-..* Prune stale references (unless you `--skip-prune`)
+  * Fetch remote 
+  * Prune stale references (unless you `--skip-prune`)
 * List all branches that are merged or outdated 
 * If in `--interactive` mode, you can choose which branches to delete
 
