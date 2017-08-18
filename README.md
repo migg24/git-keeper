@@ -1,4 +1,4 @@
-# git-keeper [![npm-check](http://img.shields.io/npm/dm/git-keeper.svg)](https://www.npmjs.org/package/git-keeper)
+# git-keeper [![npm-check](http://img.shields.io/npm/dm/git-keeper.svg)](https://www.npmjs.org/package/git-keeper) [![Known Vulnerabilities](https://snyk.io/test/github/migg24/git-keeper/badge.svg)](https://snyk.io/test/github/migg24/git-keeper)
 > Check for merged or outdated local or remote git branches
 
 Helps you to keep your local and remote branches clean of merged and outdated stuff.
