@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/migg24/git-keeper#readme",
   "dependencies": {
-    "chalk": "^1.1.3",
+    "chalk": "^2.0.0",
     "execa": "^1.0.0",
     "figures": "^2.0.0",
-    "inquirer": "^1.0.2",
+    "inquirer": "^6.5.1",
     "lodash": "^4.17.11",
     "meow": "^3.7.0",
     "moment": "^2.22.2",
